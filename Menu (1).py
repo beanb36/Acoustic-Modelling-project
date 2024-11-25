@@ -1,6 +1,7 @@
 from tkinter import *
 from tkinter import ttk,filedialog,messagebox
 
+#Where does this from sine come from? I can't find any way to make this work in python
 from Sine import make_sine
 
 #ONLY GRAPH BUTTON WORKS RIGHT NOW
